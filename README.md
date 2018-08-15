@@ -1,6 +1,6 @@
 ## CurrencyFair project
 
-In this README file, I'll describe the process followed to create the project. To see the project click [here]()
+In this README file, I'll describe the process followed to create the project. To see the project click [here](https://camilaavilarinho.github.io/front-end-project/)
 
 ### Process
 1. Decide the tools to use: react + redux
